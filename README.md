@@ -1,2 +1,1 @@
-Nouvelle version : travail d'un colaborateur
-Nouvelle version : pour test le git pull
+Nouvelle version pour tester la divergence de branche distance / locale
